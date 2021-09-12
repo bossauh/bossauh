@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any python related projects.**
 
-- 👨‍💻 All of my projects are available [here on my GitHub page. (Not all but soon)](here on my GitHub page. (Not all but soon))
+- 👨‍💻 All of my projects are available here on my GitHub page. (Not all but soon)
 
 - 📫 How to reach me **philmattdev@gmail.com**
 

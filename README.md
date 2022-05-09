@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Mantra AI](https://github.com/bossauh/mantra-ai)
 
-- 🌱 I’m currently learning **Riot JS, Tensorflow**
+- 🌱 I’m currently learning **React, Tensorflow**
 
 - 👯 I’m looking to collaborate on **any python related project.**
 

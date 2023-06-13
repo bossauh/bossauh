@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Philippe Mathew</h1>
-<h3 align="center">A software engineer from the Philippines with 6 years of experience. I specialize in python-based projects.</h3>
+<h3 align="center">A software engineer from the Philippines with 7 years of experience. I specialize in python-based projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bossauh&label=Profile%20views&color=0e75b6&style=flat" alt="bossauh" /> </p>
 
